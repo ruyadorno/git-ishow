@@ -1,5 +1,9 @@
 # git-ishow
 
+[![NPM version](https://badge.fury.io/js/git-ishow.svg)](https://npmjs.org/package/git-ishow)
+[![License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://raw.githubusercontent.com/ruyadorno/git-ishow/master/LICENSE)
+[![Join the chat at https://gitter.im/ipipeto/Lobby](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ipipeto/Lobby)
+
 Git plugin that lets you interactively select a stashed item to show
 
 > An [iPipeTo](https://github.com/ruyadorno/ipt) workflow
