@@ -9,7 +9,7 @@ Git plugin that lets you interactively select a stashed item to show
 
 <p align="center">
 <a href="https://asciinema.org/a/174389">
-<img alt="demo animation" width="600" src="https://cdn.rawgit.com/ruyadorno/git-ishow/demo.svg" />
+<img alt="demo animation" width="600" src="https://cdn.rawgit.com/ruyadorno/git-ishow/master/demo.svg" />
 </a>
 </p>
 
