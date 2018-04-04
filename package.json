@@ -1,0 +1,33 @@
+{
+  "name": "git-ishow",
+  "version": "1.0.0",
+  "description": "Git plugin that lets you interactively select a stashed item to show",
+  "bin": "cli.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruyadorno/git-ishow.git"
+  },
+  "keywords": [
+    "ipt",
+    "ipipeto",
+    "cli",
+    "interactive",
+    "git",
+    "inquirer",
+    "unix",
+    "terminal",
+    "workflow"
+  ],
+  "author": {
+    "name": "Ruy Adorno",
+    "url": "ruyadorno.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruyadorno/git-ishow/issues"
+  },
+  "homepage": "https://github.com/ruyadorno/git-ishow#readme",
+  "dependencies": {
+    "ipt": "^2.0.0"
+  }
+}
